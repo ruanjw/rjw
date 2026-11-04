@@ -210,14 +210,6 @@ CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 卡酷卡通,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8
 金鹰卡通,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
 东方购物,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfgwsxhd8m/index.m3u8
-优购物,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-yougw/index.m3u8#http://120.210.193.151:8006/120000002001/wlds:8080/ysten-business/lookback/HD-4000k-1080P-yougw/index.m3u8
-BesTV-1,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba1/index.m3u8
-BesTV-2,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba2/index.m3u8
-BesTV-3,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba3/index.m3u8
-BesTV-4,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba4/index.m3u8#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba4/index.m3u8
-BesTV-5,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba5/index.m3u8
-BesTV-6,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba6/index.m3u8
-BesTV-7,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba7/index.m3u8
 睛彩广场舞,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 金色频道,http://120.210.193.151:8006/120000001002/XMTjspd/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8#http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
 历史解密,http://120.210.193.151:8006/120000000058/GITV-AH-24/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
