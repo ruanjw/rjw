@@ -1,20 +1,21 @@
-我的直播源直链清单（源文件：ahyd2026_hd_strict_genre.txt）
-清单最后更新：2026-11-04 15:50
+我的直播源直链清单（源文件：2026new.txt）
+清单最后更新：2026-11-11 19:30
+（自 2026-11-11 起统一改用 2026new.txt；旧文件 ahyd2026_hd_strict_genre.txt 已停用）
 
 1. Gitee（国内直连，最快最稳）
-https://gitee.com/ruanjw/rjw/raw/master/ahyd2026_hd_strict_genre.txt
+https://gitee.com/ruanjw/rjw/raw/master/2026new.txt
 
 2. Cloudflare Pages（国内直连）
-https://rjw-54n.pages.dev/ahyd2026_hd_strict_genre.txt
+https://rjw-54n.pages.dev/2026new.txt
 
 3. KStore 凯速网（国内直连）
-https://dl.kstore.dev/download/18680/ahyd2026_hd_strict_genre.txt
+https://dl.kstore.dev/download/18680/2026new.txt
 
 4. GitHub 直链（国内被重置，需代理/境外才用）
-https://raw.githubusercontent.com/ruanjw/rjw/main/ahyd2026_hd_strict_genre.txt
+https://raw.githubusercontent.com/ruanjw/rjw/main/2026new.txt
 
 5. GitHub 代理版（国内不可达时的备用，走 ghproxy）
-https://ghproxy.net/https://raw.githubusercontent.com/ruanjw/rjw/main/ahyd2026_hd_strict_genre.txt
+https://ghproxy.net/https://raw.githubusercontent.com/ruanjw/rjw/main/2026new.txt
 
 TV 端（继文直播）默认配置建议：优先用 1（Gitee）或 2（Cloudflare Pages），3 作备选，4/5 留给境外或代理环境。
 
