@@ -122,6 +122,7 @@ Mei Ah Movie Channel,http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 旌德综合,http://120.210.193.151:8006/120000001002/XMTjdzh/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 郎溪新闻综合,http://120.210.193.151:8006/120000001002/XMTlxxw/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTlxxw/1.m3u8
 铜陵新闻综合,http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
+枞阳电视台,http://120.210.193.151:8006/120000001002/XMTzydst/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTzydst/1.m3u8
 综合精选,#genre#
 CHC动作电影,http://120.210.193.151:8006/120000002002/XMTdzdy/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
