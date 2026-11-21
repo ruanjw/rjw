@@ -79,13 +79,10 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 4K电视,#genre#
 CCTV4K,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
-CCTV-4K超高清,http://117.57.37.66:4022/rtp/238.1.79.23:4296
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php#http://8.134.101.151/live/jsws4k.m3u8
-浙江卫视4K,http://117.57.37.66:4022/rtp/238.1.79.28:4336#https://bd-xwl.cztv.com/live/channel4k2160p.m3u8#http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-山东卫视4K,http://117.57.37.66:4022/rtp/238.1.79.29:4344
+浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8#http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 湖南卫视4K,http://120.210.193.151:8006/120000000058/G_HUNAN-4K/index.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-爱上4K,http://117.57.37.66:4022/rtp/238.1.78.23:6112
 安徽地方,#genre#
 安徽导视,http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 安徽公共,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://112.27.5.218:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
