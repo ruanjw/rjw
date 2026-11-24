@@ -15,7 +15,7 @@ CCTV12,http://120.210.193.151:8006/120000000058/G_CCTV-12-CQ/index.m3u8#http://1
 CCTV13,http://120.210.193.151:8006/120000000058/G_CCTV-13-CQ/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-13-CQ/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTcctv-13/index.m3u8#http://112.27.5.218:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
 CCTV14,http://120.210.193.151:8006/120000000058/G_CCTV-14-HQ/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-14-HQ/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTcctv-14hd/index.m3u8#http://112.27.5.218:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
 CCTV15,http://120.210.193.151:8006/120000000058/G_CCTV-15-HQ/index.m3u8#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8#http://112.27.5.218:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.210.193.151:8006/120000000058/G_CCTV-15-HQ/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
-CCTV16,http://120.210.193.151:8006/120000000058/G_CCTV-16-CQ/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-16-4K/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-16-CQ/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000000058/G_CCTV-16-HQ/index.m3u8#http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
+CCTV16,http://120.210.193.151:8006/120000000058/G_CCTV-16-4K/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-16-CQ/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-16-CQ/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000000058/G_CCTV-16-HQ/index.m3u8#http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
 CCTV17,http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8#http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m#http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTcctv-17/index.m3u8#http://112.27.5.218:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
 CCTV-电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8#http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
 CCTV-央视文化精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8#http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=m
@@ -77,6 +77,10 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+AstroAOD,https://cdn3.indevs.in/stream/live/aod/
+Astro爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
+AstroAEC,https://cdn3.indevs.in/stream/live/aec/
 4K电视,#genre#
 CCTV4K,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php#http://8.134.101.151/live/jsws4k.m3u8
